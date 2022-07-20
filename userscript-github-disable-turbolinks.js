@@ -10,7 +10,6 @@
 // @run-at       document-end
 // @grant        none
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @require      https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.js
 // @updateURL    https://raw.githubusercontent.com/jamiebuilds/userscript-github-disable-turbolinks/main/userscript-github-disable-turbolinks.js
 // @downloadURL  https://raw.githubusercontent.com/jamiebuilds/userscript-github-disable-turbolinks/main/userscript-github-disable-turbolinks.js
 // @supportURL   https://github.com/jamiebuilds/userscript-github-disable-turbolinks/issues
